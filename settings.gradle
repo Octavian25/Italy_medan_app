@@ -1,0 +1,2 @@
+rootProject.name = "Italy_medan_app"
+include ':app'
